@@ -2,9 +2,10 @@
 ## Junior Frontend Developer
 
 ## Contact information:
+**Discord:** *ViktoriyaKo*      
 **Phone:** *+7-981-780-50-44*  
 **E-mail:** *kozlova_viktoriy@mail.ru*      
-**Discord:** *ViktoriyaKo*      
+
 
 ### Education
 
